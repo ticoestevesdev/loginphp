@@ -1,0 +1,17 @@
+body {
+    background-color: #FBFBFB;
+}
+#login {
+    width: 100%;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.message_error {
+    margin: 10px 0 0 0;
+    padding: 10px;
+    color: red;
+    border: 1px solid #D2D2D2;
+    border-radius: 5px;
+}
